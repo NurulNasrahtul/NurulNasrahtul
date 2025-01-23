@@ -1,6 +1,6 @@
 ## Hi there!!
 
-<!<h1 align="center">Hi 👋, I'm Nurul Nasrahtul Balqis Binti Mohamad Fazli</h1>
+<h1 align="center">Hi 👋, I'm Nurul Nasrahtul Balqis Binti Mohamad Fazli</h1>
 <h3 align="center">A dedicated and hardworking student from Universiti Teknologi Malaysia</h3>
 
 - 📫 How to reach me **nurulnasrahtulbalqis@graduate.utm.my**
